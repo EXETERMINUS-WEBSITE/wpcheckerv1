@@ -18,6 +18,24 @@ _A powerful Wordpress Login Checker tool that checks WP file manager, plugin ins
 ### Results Checking
 ![gambar3](images/Screenshot_2024-08-17-13-08-10-09.jpg)
 
+## Installation 
+### Termux
+```
+$ pkg update
+$ pkg upgrade
+$ pkg install python3
+$ pkg install git
+$ git clone https://github.com/EXETERMINUS-WEBSITE/wpcheckerv1.git
+$ cd wpcheckerv1
+$ bash startup.sh
+$ python3 main.py
+```
+### Support?
+- Termux
+- Windows
+- Linux
+- Ubuntu
+
 ## Warning!
 ***We Are Not Responsible For The Behavior You Act In The Script, Your Behavior Is Your Responsibility!***
 
