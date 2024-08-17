@@ -49,7 +49,6 @@ $ python3 main.py
 ### Support?
 - Termux
 - Windows
-- Linux
 - Ubuntu
 
 ## Warning!
