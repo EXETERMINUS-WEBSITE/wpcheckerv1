@@ -3,7 +3,7 @@
 Codex By ./FkzsecXploit.ID
 Leviathan404TeamCyber | Ton618
 ```
-***Credits : Mikaelz | hyperXyclic!***
+***Credits : Mikaelz | hyperXyclic! | Ilham***
 
 ## Wordpress Checker
 **_WHAT A WORDPRESS CHECKER?_**
@@ -48,7 +48,7 @@ $ python3 main.py
 
 ### Support?
 - Termux
-- Windows
+- Wsl
 - Ubuntu
 
 ## Warning!
