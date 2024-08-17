@@ -1,3 +1,10 @@
+![gambar5](images/0heker.jpeg)
+```
+Codex By ./FkzsecXploit.ID
+Leviathan404TeamCyber | Ton618
+```
+***Credits : Mikaelz | hyperXyclic!***
+
 # Wordpress Checker
 **_WHAT A WORDPRESS CHECKER?_**
 _A powerful Wordpress Login Checker tool that checks WP file manager, plugin install and WooCommerce!_
@@ -19,7 +26,8 @@ _A powerful Wordpress Login Checker tool that checks WP file manager, plugin ins
 ![gambar3](images/Screenshot_2024-08-17-13-08-10-09.jpg)
 
 ## Installation 
-### Termux
+
+### Termux 
 ```
 $ pkg update
 $ pkg upgrade
@@ -30,6 +38,15 @@ $ cd wpcheckerv1
 $ bash startup.sh
 $ python3 main.py
 ```
+
+### Kali Linux / Ubuntu 
+```
+~# sudo apt-get update
+~# git clone https://github.com/EXETERMINUS-WEBSITE/wpcheckerv1.git
+~# cd wpcheckerv1
+~# python3 main.py
+```
+
 ### Support?
 - Termux
 - Windows
