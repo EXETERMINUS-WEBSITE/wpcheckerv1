@@ -14,7 +14,6 @@ _A powerful Wordpress Login Checker tool that checks WP file manager, plugin ins
 - *DETECTED PLUGIN INSTALL*
 - *DETECTED WOOCOMMERCE*
 - *AUTO LOGIN WORDPRESS* **_(Example text in WP.txt -> http://website.com/wp-login.php#admin@pass)_**
-- *NO ROOT*
 - *EASY TO USE*
 
 ## Images
