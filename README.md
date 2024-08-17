@@ -40,7 +40,6 @@ $ python3 main.py
 
 ### Kali Linux / Ubuntu 
 ```
-~# sudo apt-get update
 ~# git clone https://github.com/EXETERMINUS-WEBSITE/wpcheckerv1.git
 ~# cd wpcheckerv1
 ~# python3 main.py
